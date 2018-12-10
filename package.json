@@ -1,0 +1,16 @@
+{
+  "name": "azure-iot-mqttws-problem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mqtt-client.js",
+  "dependencies": {
+    "azure-iot-device": "^1.8.2",
+    "azure-iot-device-mqtt": "^1.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
